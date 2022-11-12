@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Saad
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Sports Analytics
+- 🌱 I’m currently learning Multi-Cloud Computing
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me msaad@mail.bradley.edu
 
