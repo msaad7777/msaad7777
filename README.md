@@ -61,10 +61,6 @@ DevOps:
 ![Kubernetes](https://cdn.icon-icons.com/icons2/2389/PNG/512/kubernetes_logo_icon_144877.png)
 
 Data Engineering Tools:
-
-![Spark](https://cdn.icon-icons.com/icons2/2108/PNG/512/apache_spark_icon_130924.png)
-![Kafka](https://cdn.icon-icons.com/icons2/2108/PNG/512/apache_kafka_icon_130935.png)
-![Airflow](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_airflow_logo_icon_168534.png)
 ![Hadoop](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_168522.png)
 ![Nifi](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168538.png)
 
