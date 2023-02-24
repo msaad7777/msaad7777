@@ -50,7 +50,6 @@ Tools That I Use
 Cloud Technologies:
 
 ![AWS](https://cdn.icon-icons.com/icons2/2108/PNG/512/amazon_aws_icon_130919.png)
-![Azure](https://cdn.icon-icons.com/icons2/2108/PNG/512/microsoft_azure_icon_130940.png)
 ![GCP](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_google_icon_130211.png)
 ![Oracle Cloud](https://cdn.icon-icons.com/icons2/2389/PNG/512/oracle_cloud_logo_icon_145242.png)
 ![IBM Cloud](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ibm_icon_130220.png)
@@ -59,8 +58,6 @@ DevOps:
 
 ![Jenkins](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130506.png)
 ![GitLab CI/CD](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gitlab_icon_130564.png)
-![CircleCI](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_circleci_icon_130636.png)
-![Travis CI](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_travis_icon_130455.png)
 ![Kubernetes](https://cdn.icon-icons.com/icons2/2389/PNG/512/kubernetes_logo_icon_144877.png)
 
 Data Engineering Tools:
@@ -73,7 +70,4 @@ Data Engineering Tools:
 
 ELK Stack (Elasticsearch, Logstash, Kibana):
 ![Elasticsearch](https://cdn.icon-icons.com/icons2/2415/PNG/512/elasticsearch_original_wordmark_logo_icon_146465.png)
-![Logstash](https://cdn.icon-icons.com/icons2/2699/PNG/512/logstash_logo_icon_168501.png)
-![Kibana](https://cdn.icon-icons.com/icons2/2108/PNG/512/kibana_icon_130941.png)
 ![Cassandra](https://cdn.icon-icons.com/icons2/2108/PNG/512/apache_cassandra_icon_130924.png)
-![Beam](https://beam.apache.org/images/logos/full-color-name.svg)
