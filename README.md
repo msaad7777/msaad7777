@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 Tools That I Use
 
 ![linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-![pop_os](https://img.shields.io/badge/-Pop!_OS-black?style=flat&logo=pop-os)
 ![brave](https://img.shields.io/badge/-Brave-black?style=flat&logo=brave)
 ![vscode](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visual-studio-code)
 ![vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim)
@@ -48,3 +47,30 @@ Tools That I Use
 ![postgress](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![mongodb](https://img.shields.io/badge/-MongoDB
 
+Cloud Technologies:
+
+AWS: ![AWS](https://cdn.icon-icons.com/icons2/2108/PNG/512/amazon_aws_icon_130919.png)
+Microsoft Azure: ![Azure](https://cdn.icon-icons.com/icons2/2108/PNG/512/microsoft_azure_icon_130940.png)
+Google Cloud Platform (GCP): ![GCP](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_google_icon_130211.png)
+Oracle Cloud: ![Oracle Cloud](https://cdn.icon-icons.com/icons2/2389/PNG/512/oracle_cloud_logo_icon_145242.png)
+IBM Cloud: ![IBM Cloud](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ibm_icon_130220.png)
+DevOps:
+
+Jenkins: ![Jenkins](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130506.png)
+GitLab CI/CD: ![GitLab CI/CD](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gitlab_icon_130564.png)
+CircleCI: ![CircleCI](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_circleci_icon_130636.png)
+Travis CI: ![Travis CI](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_travis_icon_130455.png)
+Kubernetes: ![Kubernetes](https://cdn.icon-icons.com/icons2/2389/PNG/512/kubernetes_logo_icon_144877.png)
+Data Engineering Tools:
+
+Apache Spark: ![Spark](https://cdn.icon-icons.com/icons2/2108/PNG/512/apache_spark_icon_130924.png)
+Apache Kafka: ![Kafka](https://cdn.icon-icons.com/icons2/2108/PNG/512/apache_kafka_icon_130935.png)
+Apache Airflow: ![Airflow](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_airflow_logo_icon_168534.png)
+Apache Hadoop: ![Hadoop](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_168522.png)
+Apache Nifi: ![Nifi](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168538.png)
+ELK Stack (Elasticsearch, Logstash, Kibana):
+Elasticsearch: ![Elasticsearch](https://cdn.icon-icons.com/icons2/2415/PNG/512/elasticsearch_original_wordmark_logo_icon_146465.png)
+Logstash: ![Logstash](https://cdn.icon-icons.com/icons2/2699/PNG/512/logstash_logo_icon_168501.png)
+Kibana: ![Kibana](https://cdn.icon-icons.com/icons2/2108/PNG/512/kibana_icon_130941.png)
+Apache Cassandra: ![Cassandra](https://cdn.icon-icons.com/icons2/2108/PNG/512/apache_cassandra_icon_130924.png)
+Apache Beam: ![Beam](https://beam.apache.org/images/logos/full-color-name.svg)
