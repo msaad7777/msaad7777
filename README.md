@@ -14,14 +14,12 @@ You can click the Preview link to take a look at your changes.
 Tools That I Use
 
 ![linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-![brave](https://img.shields.io/badge/-Brave-black?style=flat&logo=brave)
 ![vscode](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visual-studio-code)
 ![vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim)
 
 ![python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![javascript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![cpp](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)
-![solidity](https://img.shields.io/badge/-Solidity-black?style=flat&logo=solidity)
 ![html](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![css](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
@@ -49,21 +47,27 @@ Tools That I Use
 
 Cloud Technologies:
 
-![AWS](https://cdn.icon-icons.com/icons2/2108/PNG/512/amazon_aws_icon_130919.png)
-![GCP](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_google_icon_130211.png)
-![Oracle Cloud](https://cdn.icon-icons.com/icons2/2389/PNG/512/oracle_cloud_logo_icon_145242.png)
-![IBM Cloud](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ibm_icon_130220.png)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/-GCP-black?style=flat&logo=google-cloud-platform)](https://cloud.google.com/)
+[![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle)](https://www.oracle.com/)
+[![IBM](https://img.shields.io/badge/-IBM-black?style=flat&logo=IBM)](https://www.ibm.com/)
+
 
 DevOps:
 
-![Jenkins](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130506.png)
-![GitLab CI/CD](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gitlab_icon_130564.png)
-![Kubernetes](https://cdn.icon-icons.com/icons2/2389/PNG/512/kubernetes_logo_icon_144877.png)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins)](https://jenkins.io/)
+[![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-black?style=flat&logo=gitlab)](https://about.gitlab.com/product/continuous-integration/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)](https://kubernetes.io/)
+
 
 Data Engineering Tools:
-![Hadoop](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_168522.png)
-![Nifi](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168538.png)
+[![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat&logo=Apache-Hadoop)](https://hadoop.apache.org/)
+[![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-black?style=flat&logo=Apache-NiFi)](https://nifi.apache.org/)
+
 
 ELK Stack (Elasticsearch, Logstash, Kibana):
-![Elasticsearch](https://cdn.icon-icons.com/icons2/2415/PNG/512/elasticsearch_original_wordmark_logo_icon_146465.png)
-![Cassandra](https://cdn.icon-icons.com/icons2/2108/PNG/512/apache_cassandra_icon_130924.png)
+[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat&logo=elasticsearch)](https://www.elastic.co/products/elasticsearch)
+[![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat&logo=Apache-Cassandra)](http://cassandra.apache.org/)
+
+
+
