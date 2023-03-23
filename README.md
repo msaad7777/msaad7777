@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Saad
-- 👀 I’m interested in Cloud Computing, Data Engineer, Database Migration, Sports Analytics, Health Informatics and Deep learning
+- 👀 I’m interested in Cloud Computing, Data Engineering, Database Migration, Sports Analytics, Health Informatics and Deep learning
 - 🌱 I’m currently learning Multi-Cloud Computing
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me badru369@www.msaad.co.in
