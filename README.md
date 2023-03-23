@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohammed Saad
-- 👀 I’m interested in Sports Analytics, Health Informatics and Database Migration
+- 👀 I’m interested in Cloud Computing, Data Engineer, Database Migration, Sports Analytics, Health Informatics and Deep learning
 - 🌱 I’m currently learning Multi-Cloud Computing
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me msaad@mail.bradley.edu
+- 📫 How to reach me badru369@www.msaad.co.in
 
 <!---
 msaad7777/msaad7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
