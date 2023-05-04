@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cloud Computing, Data Engineering, Database Migration, Sports Analytics, Health Informatics and Deep learning
 - 🌱 I’m currently learning Multi-Cloud Computing
 - 💞️ I’m looking to collaborate on new projects
-- I'm GCP and AWS Certified DevOps and Data Engineering Professional
+- I'm AWS Certified DevOps and GCP Data Engineering Professional
 
 📫 How to reach me:
 <a href="https://twitter.com/Mohamme43073045?t=V2VGq-qo8elg7fkb4AwiSA&s=09"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
