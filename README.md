@@ -2,7 +2,7 @@
  Welcome to my portfolio</h1>
 - 👀 I’m interested in Cloud Computing, DevOps, Data Engineering, Database Migration, Sports Analytics, Health Informatics and Deep learning
 - 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m working on some cool projects with Hotspex Media
 - I'm AWS Certified DevOps and GCP Data Engineering Professional
 
 📫 How to reach me:
