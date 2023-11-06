@@ -1,7 +1,7 @@
 <h1>- 👋 Hi, I’m Mohammed Saad (He/Him) 
  Welcome to my portfolio</h1>
 - 👀 I’m interested in Cloud Computing, DevOps, Data Engineering, Database Migration, Sports Analytics, Health Informatics and Deep learning
-- 🌱 I’m currently learning Multi-Cloud Computing
+- 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on new projects
 - I'm AWS Certified DevOps and GCP Data Engineering Professional
 
