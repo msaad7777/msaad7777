@@ -1,9 +1,12 @@
-<h1>- 👋 Hi, I’m Mohammed Saad (He/Him) 
- Welcome to my portfolio</h1>
-- 👀 I’m interested in Cloud Computing, DevOps, Data Engineering, Database Migration, Sports Analytics, Health Informatics and Deep learning
-- 🌱 I’m currently learning MLOps
-- 💞️ I’m working on some cool projects with Hotspex Media
-- I'm AWS Certified DevOps and GCP Data Engineering Professional
+<h1>👋 Hi, I’m Mohammed Saad (He/Him)</h1>
+
+**Senior Platform Engineer / DevOps / SRE | Cloud Architecture & AI Infrastructure | Kubernetes, Terraform, AWS, GCP, Azure | DevSecOps, Observability, MLOps | CKA · CKAD · Google PCA**
+
+- I build reliable systems and make them easier to operate, and I'm now applying that to AI infrastructure.
+- 🔧 Kubernetes, Terraform, AWS, GCP and Azure, SRE and observability, secure delivery pipelines.
+- 🤖 Current projects: AI platform and agent builds, each with measured results in its README.
+- 🌐 Portfolio: [msaad.tech](https://msaad.tech)
+- Credentials: Google Professional Cloud Architect · CKA · CKAD · KCNA · KCSA · CNPA · LFCS
 
 📫 How to reach me:
 <a href="https://twitter.com/Mohamme43073045?t=V2VGq-qo8elg7fkb4AwiSA&s=09"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
